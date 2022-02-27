@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Edit name"
+        android:id="@+id/edit_board"/>
+    <item android:title="Deleted"
+        android:id="@+id/deleted_board"/>
+</menu>
